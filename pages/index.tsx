@@ -33,7 +33,6 @@ const HomePage: React.FC = () => {
                     src="/images/newsletter.png" alt="Join my newsletter"/>
             </a>
         </Layout>
-            <GetItNow />
         </>
     );
 };

@@ -2,7 +2,6 @@ import React from 'react';
 import Layout from '../components/Layout';
 import CardGrid from "../components/CardGrid";
 import {TEMPLATES} from "../constants/templates";
-import GetItNow from "../components/BuyIt";
 
 const HomePage: React.FC = () => {
 
